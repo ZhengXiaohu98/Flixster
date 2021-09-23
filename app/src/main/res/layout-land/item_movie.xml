@@ -30,7 +30,7 @@
         tools:text="Test Movie Title" />
 
     <TextView
-        android:id="@+id/tvOverview"
+        android:id="@+id/tvOverview_d"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@+id/tvTitle"
