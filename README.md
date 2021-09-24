@@ -1,6 +1,20 @@
 # Flix
 Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
+## Flix Part 2
+
+### User Stories
+I was unable to find the relative layout, so ending up users can only click the title to go to the video page.
+
+#### REQUIRED (10pts)
+
+- [x] (8pts) Expose details of movie (ratings using RatingBar, popularity, and synopsis) in a separate activity.
+- [x] (2pts) Allow video posts to be played in full-screen using the YouTubePlayerView.
+
+
+### App Walkthough GIF
+<img src="https://github.com/ZhengXiaohu98/Flixster/blob/master/xiaohuFlixster2.gif" width=250><br>
+
 ---
 
 ## Flix Part 1
